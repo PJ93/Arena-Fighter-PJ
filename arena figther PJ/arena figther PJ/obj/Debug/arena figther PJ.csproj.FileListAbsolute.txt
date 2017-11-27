@@ -1,0 +1,8 @@
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\bin\Debug\arena figther PJ.exe.config
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\bin\Debug\arena figther PJ.exe
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\bin\Debug\arena figther PJ.pdb
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\bin\Debug\InfoGenerator.dll
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\obj\Debug\arena figther PJ.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\obj\Debug\arena figther PJ.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\obj\Debug\arena figther PJ.exe
+C:\Users\deltagare\source\repos\arena figther PJ\arena figther PJ\obj\Debug\arena figther PJ.pdb
